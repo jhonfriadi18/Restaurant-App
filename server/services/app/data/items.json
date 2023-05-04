@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "name": "Paket 1 Pcs Bukber Medium",
+      "description": "1 Pc Ayam, 1 Bumbu Madura, 1 Nasi & 1 Jasmine Tea Medium",
+      "price": "35,909",
+      "imgUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/3/20/poqhqpigvgodd8bbfcye96_product_details.jpg",
+      "authorMongoId": "644e4e3e3a3865b886d872d0",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Paket 2 Pcs Bukber Medium",
+      "description": "2 Pcs Ayam, 1 Bumbu Madura, 1 Nasi & 1 Jasmine Tea Medium",
+      "price": "75000",
+      "imgUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/3/20/phbttuxpdnt84ru8f2pvea_product_details.jpg",
+      "authorMongoId": "644e4e3e3a3865b886d872d0",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "King Box Bukber Regular",
+      "description": "1 Pc Ayam, 1 Bumbu Madura, 1 Nasi, 1 Cheeseburger & 1 Jasmine Tea Regular",
+      "price": "51,364",
+      "imgUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/3/20/ahxdpyg2tnpg2enacgidr8_product_details.jpg",
+      "authorMongoId": "644e4e3e3a3865b886d872d0",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "1 Pcs Ayam Madura",
+      "description": "1 Pcs Ayam Madura Kings Chicken juicy renyah tanpa MSG dengan bumbu Madura yang special",
+      "price": "85000",
+      "imgUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/3/15/a6smcotc9utmbbdz2fajyy_product_details.jpg",
+      "authorMongoId": "644e4e3e3a3865b886d872d0",
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "name": "Madura Sauce",
+      "description": "Madura Sauce",
+      "price": "137500",
+      "imgUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/3/15/oscqffskkgdlduyuxwfxsc_product_details.jpg",
+      "authorMongoId": "644e4e3e3a3865b886d872d0",
+      "categoryId": 2
+    },
+    {
+      "id": 6,
+      "name": "Fusion Kitkat®",
+      "description": "Es krim vanilla yang creamy di padukan dengan Kit Kat spread yang crunchy",
+      "price": "11800",
+      "imgUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/2/10/3wqmvpohpvc35exjmhjyqf_product_details.jpg",
+      "authorMongoId": "644e4e3e3a3865b886d872d0",
+      "categoryId": 2
+    },
+    {
+      "id": 7,
+      "name": "King Fusion Nastar Crumble",
+      "description": "Ice cream vanilla yang lembut dibalut selai nastar asam manis dan bertabur nastar crumble",
+      "price": "93000",
+      "imgUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/4/13/jldnzjrxvr2hmd5eqxhz37_product_details.jpg",
+      "authorMongoId": "644e4e3e3a3865b886d872d0",
+      "categoryId": 2
+    }
+  ]

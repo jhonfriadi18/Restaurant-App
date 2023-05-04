@@ -1,0 +1,47 @@
+{
+    "Items": [
+        {
+            "id": 1,
+            "name": "",
+            "description": "",
+            "price": "76000",
+            "imgUrl": "",
+            "authorId": 3,
+            "categoryId": 1
+        }
+    ],
+    "Categories": [
+        {
+            "id": 1,
+            "name": "Ayam - Daging"
+        },
+        {
+            "id": 2,
+            "name": "Telur"
+        }
+    ],
+    "Users": [
+        {
+            "id": 1,
+            "username": "jhon",
+            "email": "jhon@gmail.com",
+            "password": "12345678",
+            "phoneNumber": "4424282274",
+            "address": "06 medan way"
+        }
+    ],
+    "Ingredients": [
+        {
+            "id": 1,
+            "ItemId": 1,
+            "name": [
+                {
+                    "name": "tepung"
+                },
+                {
+                    "name": "sosis"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "beef"
+    },
+    {
+        "id": 2,
+        "name": "chicken"
+    },
+    {
+        "id": 3,
+        "name": "pork"
+    },
+    {
+        "id": 4,
+        "name": "vegetarian"
+    }
+]
